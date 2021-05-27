@@ -9,7 +9,7 @@ ADD --chown=www-data:www-data . /var/www/site
 
 WORKDIR /var/www/site
 
-RUN sudo apt install php-gd
+RUN apt install php-gd
 
 RUN composer install --no-ansi --no-suggest --no-scripts --prefer-dist --no-progress --no-interaction \
       --optimize-autoloader
