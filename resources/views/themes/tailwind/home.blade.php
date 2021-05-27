@@ -110,7 +110,7 @@
                                     </p>
                                 </div>
 
-                                <h3 class="mt-3 text-base font-medium leading-5 text-gray-800 truncate sm:pl-12">Stripe Payments <span
+                                <h3 class="mt-3 text-base font-medium leading-5 text-gray-800 font-bold truncate sm:pl-12">Stripe Payments <span
                                         class="mt-1 text-sm leading-5 text-gray-500 truncate"></span></h3>
                                 <p class="mt-1 text-sm leading-5 text-gray-500 truncate"></p>
                             </div>
@@ -122,12 +122,10 @@
                             class="flex flex-row-reverse items-center justify-between w-full col-span-1 p-6 my-5 bg-white rounded-lg shadow sm:flex-row">
                             <div class="flex flex-col pl-5 sm:pr-10">
                                 <div class="relative sm:pl-12">
-
+                                    <h3 class="mt-3 text-base font-medium leading-5 text-gray-800 font-bold truncate sm:pl-12">Braintree Payments <span
+                                                class="mt-1 text-sm leading-5 text-gray-500 truncate"></span></h3>
                                     <p class="mt-2 text-base text-gray-600">Braintree can make it easy for your buyers to pay with innovative payments solutions for web and mobile.</p>
                                 </div>
-                                <h3 class="mt-3 text-base font-medium leading-5 text-gray-800 truncate sm:pl-12">Braintree Payments <span
-                                        class="mt-1 text-sm leading-5 text-gray-500 truncate"></span></h3>
-                                <p class="mt-1 text-sm leading-5 text-gray-500 truncate"></p>
                             </div>
                             <img class="flex-shrink-0 w-24 h-24 bg-gray-300 rounded-full"
                                 src="https://pbs.twimg.com/profile_images/1146433479091118081/Yn29TbtJ_400x400.png"
@@ -136,13 +134,11 @@
                         <blockquote
                             class="flex flex-row-reverse items-center justify-between w-full col-span-1 p-6 bg-white rounded-lg shadow sm:flex-row">
                             <div class="flex flex-col pl-5 sm:pr-10">
+                                <h3 class="mt-3 text-base font-medium leading-5 text-gray-800 truncate font-bold sm:pl-12">Paypal <span
+                                            class="mt-1 text-sm leading-5 text-gray-500 truncate"></span></h3>
                                 <div class="relative sm:pl-12">
                                     <p class="mt-2 text-base text-gray-600">The PayPal Platform is a comprehensive solution designed to help serve the needs of your business</p>
                                 </div>
-
-                                <h3 class="mt-3 text-base font-medium leading-5 text-gray-800 truncate sm:pl-12">Paypal <span
-                                        class="mt-1 text-sm leading-5 text-gray-500 truncate"></span></h3>
-                                <p class="mt-1 text-sm leading-5 text-gray-500 truncate"></p>
                             </div>
                             <img class="flex-shrink-0 w-24 h-24 bg-gray-300 rounded-full"
                                 src="http://gavinrumgay.com/wp-content/uploads/2020/10/PayPal-Logo.jpg"
