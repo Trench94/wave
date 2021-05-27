@@ -61,8 +61,8 @@
         </div>
 
         <div class="relative z-20 flex flex-col items-start justify-start px-8 mx-auto sm:items-center max-w-7xl xl:px-5">
-            <h2 class="text-4xl font-medium leading-9 text-white">Awesome Features</h2>
-            <p class="mt-4 leading-6 sm:text-center text-wave-200">Wave has some cool features to help you rapidly build your Software as a Service.<br class="hidden md:block"> Here are a few awesome features you're going to love!</p>
+            <h2 class="text-4xl font-medium leading-9 text-white">What we do</h2>
+            <p class="mt-4 leading-6 sm:text-center text-wave-200">We offer a large range of bespoke software services both B2B and B2C<br class="hidden md:block"> Here are some of the services we offer:</p>
 
             <div class="grid mt-16 gap-y-10 sm:grid-cols-2 sm:gap-x-8 md:gap-x-12 lg:grid-cols-3 xl:grid-cols-4 lg:gap-20">
                 @foreach(config('features') as $feature)
