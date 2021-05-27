@@ -139,7 +139,7 @@
                                 </div>
                             </div>
                             <img class="flex-shrink-0 w-24 h-24 bg-gray-300 rounded-full"
-                                src="http://gavinrumgay.com/wp-content/uploads/2020/10/PayPal-Logo.jpg"
+                                src="https://etnacentre.org/wp-content/uploads/2019/01/paypal-logo-2120.png"
                                 alt="">
                         </blockquote>
                     </div>
