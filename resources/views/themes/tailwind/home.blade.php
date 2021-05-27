@@ -96,73 +96,56 @@
             <div class="max-w-6xl px-10 pb-20 mx-auto bg-gray-100">
                 <div class="flex flex-col items-center lg:flex-row">
                     <div class="flex flex-col justify-center w-full h-full mb-10 lg:pr-8 sm:w-4/5 md:items-center lg:mb-0 lg:items-start md:w-3/5 lg:w-1/2">
-                        <p class="mb-2 text-base font-medium tracking-tight uppercase text-wave-500">Our customers love our product</p>
+                        <p class="mb-2 text-base font-medium tracking-tight uppercase text-wave-500">We are integrated with many...</p>
                         <h2
                             class="text-4xl font-extrabold leading-10 tracking-tight text-gray-900 sm:leading-none lg:text-5xl xl:text-6xl">
-                            Testimonials</h2>
-                        <p class="pr-5 my-6 text-lg text-gray-600 md:text-center lg:text-left">This is an example section of where you will add your testimonials for your Software as a Service.</p>
-                        <a href="#_"
-                            class="flex items-center justify-center px-8 py-3 text-base font-medium leading-6 text-white transition duration-150 ease-in-out border border-transparent rounded-md shadow bg-wave-600 hover:bg-wave-500 focus:outline-none focus:border-wave-700 focus:shadow-outline-wave md:py-4 md:text-lg md:px-10">View
-                            Case Studies</a>
+                            Payment Gateways</h2>
+                        <p class="pr-5 my-6 text-lg text-gray-600 md:text-center lg:text-left">Our integrations work with many of the big name payment providers and you can get started right away.</p>
                     </div>
                     <div class="w-full sm:w-4/5 lg:w-1/2">
                         <blockquote class="flex flex-row-reverse items-center justify-between w-full col-span-1 p-6 bg-white rounded-lg shadow sm:flex-row">
                             <div class="flex flex-col pl-5 sm:pr-8">
                                 <div class="relative sm:pl-12">
-                                    <svg class="absolute left-0 hidden w-10 h-10 fill-current sm:block text-wave-500"
-                                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 125">
-                                        <path
-                                            d="M30.7 42c0 6.1 12.6 7 12.6 22 0 11-7.9 19.2-18.9 19.2C12.7 83.1 5 72.6 5 61.5c0-19.2 18-44.6 29.2-44.6 2.8 0 7.9 2 7.9 5.4S30.7 31.6 30.7 42zM82.4 42c0 6.1 12.6 7 12.6 22 0 11-7.9 19.2-18.9 19.2-11.8 0-19.5-10.5-19.5-21.6 0-19.2 18-44.6 29.2-44.6 2.8 0 7.9 2 7.9 5.4S82.4 31.6 82.4 42z" />
-                                    </svg>
-                                    <p class="mt-2 text-base text-gray-600">Wave allowed me to build the Software as a Service of my dreams!
+                                    <p class="mt-2 text-base text-gray-600">Millions of businesses of all sizes – from startups to large enterprises – use Stripe's software and APIs to accept payments, send payouts, and manage their businesses online.
                                     </p>
                                 </div>
 
-                                <h3 class="mt-3 text-base font-medium leading-5 text-gray-800 truncate sm:pl-12">Jane Cooper <span
-                                        class="mt-1 text-sm leading-5 text-gray-500 truncate">- CEO SomeCompany</span></h3>
+                                <h3 class="mt-3 text-base font-medium leading-5 text-gray-800 truncate sm:pl-12">Stripe Payments <span
+                                        class="mt-1 text-sm leading-5 text-gray-500 truncate"></span></h3>
                                 <p class="mt-1 text-sm leading-5 text-gray-500 truncate"></p>
                             </div>
                             <img class="flex-shrink-0 w-24 h-24 bg-gray-300 rounded-full"
-                                src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+                                src="https://cdn.iconscout.com/icon/free/png-512/stripe-2-498440.png"
                                 alt="">
                         </blockquote>
                         <blockquote
                             class="flex flex-row-reverse items-center justify-between w-full col-span-1 p-6 my-5 bg-white rounded-lg shadow sm:flex-row">
                             <div class="flex flex-col pl-5 sm:pr-10">
                                 <div class="relative sm:pl-12">
-                                    <svg class="absolute left-0 hidden w-10 h-10 fill-current sm:block text-wave-500"
-                                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 125">
-                                        <path
-                                            d="M30.7 42c0 6.1 12.6 7 12.6 22 0 11-7.9 19.2-18.9 19.2C12.7 83.1 5 72.6 5 61.5c0-19.2 18-44.6 29.2-44.6 2.8 0 7.9 2 7.9 5.4S30.7 31.6 30.7 42zM82.4 42c0 6.1 12.6 7 12.6 22 0 11-7.9 19.2-18.9 19.2-11.8 0-19.5-10.5-19.5-21.6 0-19.2 18-44.6 29.2-44.6 2.8 0 7.9 2 7.9 5.4S82.4 31.6 82.4 42z" />
-                                    </svg>
-                                    <p class="mt-2 text-base text-gray-600">Wave saved us hundreds of development hours. Creating a Software as a Service is now easier than ever with Wave.</p>
+
+                                    <p class="mt-2 text-base text-gray-600">Braintree can make it easy for your buyers to pay with innovative payments solutions for web and mobile.</p>
                                 </div>
-                                <h3 class="mt-3 text-base font-medium leading-5 text-gray-800 truncate sm:pl-12">John Doe <span
-                                        class="mt-1 text-sm leading-5 text-gray-500 truncate">- CEO SomeCompany</span></h3>
+                                <h3 class="mt-3 text-base font-medium leading-5 text-gray-800 truncate sm:pl-12">Braintree Payments <span
+                                        class="mt-1 text-sm leading-5 text-gray-500 truncate"></span></h3>
                                 <p class="mt-1 text-sm leading-5 text-gray-500 truncate"></p>
                             </div>
                             <img class="flex-shrink-0 w-24 h-24 bg-gray-300 rounded-full"
-                                src="https://images.unsplash.com/photo-1527980965255-d3b416303d12?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&aauto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+                                src="https://pbs.twimg.com/profile_images/1146433479091118081/Yn29TbtJ_400x400.png"
                                 alt="">
                         </blockquote>
                         <blockquote
                             class="flex flex-row-reverse items-center justify-between w-full col-span-1 p-6 bg-white rounded-lg shadow sm:flex-row">
                             <div class="flex flex-col pl-5 sm:pr-10">
                                 <div class="relative sm:pl-12">
-                                    <svg class="absolute left-0 hidden w-10 h-10 fill-current sm:block text-wave-500"
-                                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 125">
-                                        <path
-                                            d="M30.7 42c0 6.1 12.6 7 12.6 22 0 11-7.9 19.2-18.9 19.2C12.7 83.1 5 72.6 5 61.5c0-19.2 18-44.6 29.2-44.6 2.8 0 7.9 2 7.9 5.4S30.7 31.6 30.7 42zM82.4 42c0 6.1 12.6 7 12.6 22 0 11-7.9 19.2-18.9 19.2-11.8 0-19.5-10.5-19.5-21.6 0-19.2 18-44.6 29.2-44.6 2.8 0 7.9 2 7.9 5.4S82.4 31.6 82.4 42z" />
-                                    </svg>
-                                    <p class="mt-2 text-base text-gray-600">This is the best solution available for creating your own Software as a Service!</p>
+                                    <p class="mt-2 text-base text-gray-600">The PayPal Platform is a comprehensive solution designed to help serve the needs of your business</p>
                                 </div>
 
-                                <h3 class="mt-3 text-base font-medium leading-5 text-gray-800 truncate sm:pl-12">John Smith <span
-                                        class="mt-1 text-sm leading-5 text-gray-500 truncate">- CEO SomeCompany</span></h3>
+                                <h3 class="mt-3 text-base font-medium leading-5 text-gray-800 truncate sm:pl-12">Paypal <span
+                                        class="mt-1 text-sm leading-5 text-gray-500 truncate"></span></h3>
                                 <p class="mt-1 text-sm leading-5 text-gray-500 truncate"></p>
                             </div>
                             <img class="flex-shrink-0 w-24 h-24 bg-gray-300 rounded-full"
-                                src="https://images.unsplash.com/photo-1545167622-3a6ac756afa4?ixlib=rrb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&aauto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+                                src="http://gavinrumgay.com/wp-content/uploads/2020/10/PayPal-Logo.jpg"
                                 alt="">
                         </blockquote>
                     </div>
