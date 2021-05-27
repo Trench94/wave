@@ -9,7 +9,7 @@ ADD --chown=www-data:www-data . /var/www/site
 
 WORKDIR /var/www/site
 
-RUN composer install --no-ansi --no-suggest --ignore-platform-req --no-scripts --prefer-dist --no-progress --no-interaction \
+RUN composer install --no-ansi --no-suggest --ignore-platform-req=php --no-scripts --prefer-dist --no-progress --no-interaction \
       --optimize-autoloader
 
 USER root
