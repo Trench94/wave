@@ -35,7 +35,7 @@
                 successCallback: "checkoutComplete",
             });
         } else {
-            alert('Paddle Vendor ID is not set, please see the docs and learn how to setup billing.');
+            // alert('Paddle Vendor ID is not set, please see the docs and learn how to setup billing.');
         }
     }
 
