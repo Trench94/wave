@@ -139,7 +139,7 @@
                                 </div>
                             </div>
                             <img class="flex-shrink-0 w-24 h-24 bg-gray-300 rounded-full"
-                                src="https://etnacentre.org/wp-content/uploads/2019/01/paypal-logo-2120.png"
+                                src="https://cdn.pixabay.com/photo/2018/05/08/21/08/paypal-3383935_1280.png"
                                 alt="">
                         </blockquote>
                     </div>
