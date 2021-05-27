@@ -13,7 +13,7 @@
                 </div>
             </div>
             <div class="px-8 py-6 space-y-6">
-                <div class="grid grid-cols-2 row-gap-4 col-gap-8 px-1 pb-4">
+                <div class="grid grid-cols-1 row-gap-4 col-gap-8 px-1 pb-4">
                     <a href="/" class="text-base font-medium leading-6 text-gray-900 transition duration-150 ease-in-out hover:text-gray-700">
                         Home
                     </a>
