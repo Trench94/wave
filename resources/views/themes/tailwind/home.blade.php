@@ -106,13 +106,11 @@
                         <blockquote class="flex flex-row-reverse items-center justify-between w-full col-span-1 p-6 bg-white rounded-lg shadow sm:flex-row">
                             <div class="flex flex-col pl-5 sm:pr-8">
                                 <div class="relative sm:pl-0">
+                                    <h3 class="mt-3 text-base font-medium leading-5 text-gray-800 font-bold truncate sm:pl-0">Stripe Payments <span
+                                                class="mt-1 text-sm leading-5 text-gray-500 truncate"></span></h3>
                                     <p class="mt-2 text-base text-gray-600">Millions of businesses of all sizes – from startups to large enterprises – use Stripe's software and APIs to accept payments, send payouts, and manage their businesses online.
                                     </p>
                                 </div>
-
-                                <h3 class="mt-3 text-base font-medium leading-5 text-gray-800 font-bold truncate sm:pl-0">Stripe Payments <span
-                                        class="mt-1 text-sm leading-5 text-gray-500 truncate"></span></h3>
-                                <p class="mt-1 text-sm leading-5 text-gray-500 truncate"></p>
                             </div>
                             <img class="flex-shrink-0 w-24 h-24 bg-gray-300 rounded-full"
                                 src="https://cdn.iconscout.com/icon/free/png-512/stripe-2-498440.png"
